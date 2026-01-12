@@ -1,0 +1,31 @@
+{
+  "current_location": {
+    "city": "Bengaluru",
+    "country": "India",
+    "timezone": "IST (UTC+5:30)"
+  },
+  "current_activity": "Building recommendation systems at Newme",
+  "current_company": "Newme",
+  "upcoming_trips": [
+    {
+      "destination": "Barcelona, Spain",
+      "date": "TBD",
+      "purpose": "Watch a match at Camp Nou",
+      "status": "planning"
+    }
+  ],
+  "past_locations": [
+    {
+      "city": "Gurugram",
+      "country": "India",
+      "period": "Jun 2022 - Aug 2024",
+      "reason": "Working at Zomato"
+    },
+    {
+      "city": "Delhi",
+      "country": "India",
+      "period": "Jul 2018 - Jun 2022",
+      "reason": "Studying at IIT Delhi"
+    }
+  ]
+}
